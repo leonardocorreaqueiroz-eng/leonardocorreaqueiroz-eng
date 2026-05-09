@@ -4,9 +4,10 @@
 
 <br clear="both">
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/leonardocorreaqueiroz-eng/leonardocorreaqueiroz-eng/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/leonardocorreaqueiroz-eng/leonardocorreaqueiroz-eng/languages-output/languages.svg" height="150" alt="languages graph"  />
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=leonardocorreaqueiroz-eng&show_icons=true&theme=tokyonight"/>
+
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocorreaqueiroz-eng&layout=compact&theme=tokyonight"/>
 </div>
 
 ###
