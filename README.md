@@ -1,13 +1,14 @@
 <h2 align="left">Hi 👋! My name is Leonardo!</h2>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=false&vCenter=true&width=500&lines=Java+Developer;Front-End+Developer;Spring+Boot+Student" />
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=leonardocorreaqueiroz-eng&show_icons=true&theme=tokyonight"/>
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=leonardocorreaqueiroz-eng&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocorreaqueiroz-eng&layout=compact&theme=tokyonight"/>
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leonardocorreaqueiroz-eng&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ###
@@ -35,14 +36,19 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<a href="mailto:leonardocorreaqueiroz@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/seulinkedin">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge"/>
+</a>
 </div>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/leonardocorreaqueiroz-eng/leonardocorreaqueiroz-eng/snake-output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/leonardocorreaqueiroz-eng/leonardocorreaqueiroz-eng/output/snake.svg" alt="Snake animation" />
 
 ###
