@@ -2,6 +2,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="left">
   <img src="https://raw.githubusercontent.com/leonardocorreaqueiroz-eng/leonardocorreaqueiroz-eng/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/leonardocorreaqueiroz-eng/leonardocorreaqueiroz-eng/languages-output/languages.svg" height="150" alt="languages graph"  />
@@ -11,7 +13,7 @@
 
 <br clear="both">
 
-<img align="left" height="150" src="https://raw.githubusercontent.com/Deathopex/Deathopex/main/java.gif"  />
+<img align="right" height="150" src="https://raw.githubusercontent.com/Deathopex/Deathopex/main/java.gif"  />
 
 ###
 
@@ -40,10 +42,6 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leonardocorreaqueiroz-eng/leonardocorreaqueiroz-eng/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leonardocorreaqueiroz-eng/leonardocorreaqueiroz-eng/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/leonardocorreaqueiroz-eng/leonardocorreaqueiroz-eng/pacman-output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/leonardocorreaqueiroz-eng/leonardocorreaqueiroz-eng/snake-output/snake.svg" alt="Snake animation" />
 
 ###
