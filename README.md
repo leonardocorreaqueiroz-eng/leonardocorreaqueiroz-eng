@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/seulinkedin">
+<a href="https://www.linkedin.com/in/leonardo-corrêa-queiroz-6841aa418?utm_source=share_via&utm_content=profile&utm_medium=member_android">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge"/>
 </a>
 </div>
