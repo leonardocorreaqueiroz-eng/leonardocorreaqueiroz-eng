@@ -1,56 +1,49 @@
-<h2 align="left">Hi 👋! My name is Leonardo!</h2>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=false&vCenter=true&width=500&lines=Java+Developer;Front-End+Developer;Spring+Boot+Student" />
+<h2 align="left">Olá! 👋 Eu sou Leonardo</h2>
 
-###
+<h3 align="left">
+Estudante de Análise e Desenvolvimento de Sistemas | Java & Spring Boot
+</h3>
 
-<br clear="both">
+<p align="left">
+Desenvolvedor em formação com foco em backend, desenvolvimento de APIs REST
+e construção de aplicações utilizando Java e Spring Boot.
+</p>
 
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocorreaqueiroz-eng&layout=compact&theme=tokyonight"/>
-</div>
+### 🚀 Atualmente estudando
 
-###
+- Java e Programação Orientada a Objetos
+- Spring Boot e APIs REST
+- JPA / Hibernate
+- SQL e MySQL
+- Testes automatizados
+- Docker
 
-<br clear="both">
-
-<img align="right" height="150" src="https://raw.githubusercontent.com/Deathopex/Deathopex/main/java.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-</div>
-
-###
+### 🛠️ Tecnologias
 
 <div align="left">
-<a href="mailto:leonardocorreaqueiroz@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/leonardo-corrêa-queiroz-6841aa418?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge"/>
-</a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="30" alt="hibernate logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
 </div>
 
-###
+### 📌 Projeto em destaque
 
-<br clear="both">
+**Sistema Bancário**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leonardocorreaqueiroz-eng/leonardocorreaqueiroz-eng/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leonardocorreaqueiroz-eng/leonardocorreaqueiroz-eng/output/snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/leonardocorreaqueiroz-eng/leonardocorreaqueiroz-eng/output/snake.svg">
-</picture>
+API REST desenvolvida com Java e Spring Boot, utilizando JPA/Hibernate e MySQL.
 
-###
+Atualmente trabalhando em autenticação com JWT, validações, tratamento de exceções,
+testes automatizados e outras funcionalidades de backend.
+
+### 📫 Contato
+
+- LinkedIn : https://www.linkedin.com/in/leonardo-corrêa-queiroz-6841aa418
+- Email : leonardocorreaqueiroz@gmail.com
